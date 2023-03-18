@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Claude Konou</h1>
-<h3 align="center">A passionate android Developer from Togo</h3>
+<h3 align="center">A passionate android & Web Developer from Togo</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jeanclaudesoft&label=Profile%20views&color=0e75b6&style=flat" alt="jeanclaudesoft" /> </p>
 
@@ -11,7 +11,7 @@
 
 - 👨‍💻 All of my projects are available at [https://play.google.com/store/apps/dev?id=7512960281400406010](https://play.google.com/store/apps/dev?id=7512960281400406010)
 
-- 💬 Ask me about **java, android, php, json api**
+- 💬 Ask me about **java, android, php, json api, laravel, Firebase, SQL**
 
 - 📫 How to reach me **ckkonou@gmail.com**
 
