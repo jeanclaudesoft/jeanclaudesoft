@@ -9,9 +9,9 @@
 
 - 👯 I’m looking to collaborate on **android projects**
 
-- 👨‍💻 All of my projects are available at [https://play.google.com/store/apps/dev?id=7512960281400406010](https://play.google.com/store/apps/dev?id=7512960281400406010)
+- 👨‍💻 All of my projects are available at [https://claudy.bespokapps.com]https://claudy.bespokapps.com)
 
-- 💬 Ask me about **java, android, php, json api, laravel, Firebase, SQL**
+- 💬 Ask me about **java, Kotlin android, php, rest api, laravel, Firebase, SQL**
 
 - 📫 How to reach me **ckkonou@gmail.com**
 
