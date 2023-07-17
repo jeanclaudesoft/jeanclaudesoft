@@ -9,7 +9,7 @@
 
 - 👯 I’m looking to collaborate on **android projects**
 
-- 👨‍💻 All of my projects are available at [https://claudy.bespokapps.com]https://claudy.bespokapps.com)
+- 👨‍💻 All of my projects are available at [https://claudy.bespokapps.com]
 
 - 💬 Ask me about **java, Kotlin android, php, rest api, laravel, Firebase, SQL**
 
