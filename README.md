@@ -9,9 +9,9 @@
 
 - 👯 I’m looking to collaborate on **android projects**
 
-- 👨‍💻 All of my projects are available at [https://claudy.bespokapps.com]
+- 👨‍💻 All of my projects are available at [https://claudy.quizbossapp.com]
 
-- 💬 Ask me about **java, Kotlin android, php, rest api, laravel, Firebase, SQL**
+- 💬 Ask me about **java, Kotlin android, Flutter, Oracle, php, rest api, laravel, Firebase, SQL**
 
 - 📫 How to reach me **ckkonou@gmail.com**
 
