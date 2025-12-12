@@ -14,7 +14,6 @@
 
 - 👨‍💻 All of my projects are available at **[https://claudy.quizbossapp.com/](https://claudy.quizbossapp.com/)**
 
-- 📝 I regularly write articles on **[https://claudy.quizbossapp.com/](https://claudy.quizbossapp.com/)**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
