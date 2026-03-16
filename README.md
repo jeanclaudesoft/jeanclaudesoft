@@ -1,4 +1,4 @@
-# Hi 👋, I'm Code_With_Claudy
+# Hi 👋, I'm Claudy
 
 ### A passionate Mobile developer from Togo
 
